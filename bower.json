@@ -1,0 +1,24 @@
+{
+	"name":"img-b",
+	"description":"Image Beta (img-b) enhances the img element adding support for rotation, zooming and more.",
+	"version":"0.0.0",
+	"authors":[
+		"Jeremy Othieno"
+	],
+	"homepage":"https://github.com/othieno/img-b",
+	"license":[
+		"MIT"
+	],
+	"repository":{
+		"type":"git",
+		"url":"git://github.com/othieno/img-b.git"
+	},
+	"keywords":[
+		"image",
+		"beta",
+		"enhancement",
+		"rotate",
+		"zoom",
+		"drag"
+	]
+}
